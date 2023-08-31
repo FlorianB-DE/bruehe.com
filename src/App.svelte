@@ -7,6 +7,9 @@
 
   <h1>DAS IST BRÜHE</h1>
 </main>
+<footer>
+  in cooperation with <a href="https://bresus.gay">bresus.gay</a>
+</footer>
 
 <style>
 </style>
