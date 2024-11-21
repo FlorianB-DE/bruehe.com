@@ -8,7 +8,7 @@
   <h1>DAS IST BRÜHE</h1>
 </main>
 <footer>
-  in cooperation with <a href="https://bresus.gay">bresus.gay</a>
+  This page is open source and hosted on GitHub. View <a href="https://github.com/FlorianB-DE/bruehe.com">source</a>
 </footer>
 
 <style>
